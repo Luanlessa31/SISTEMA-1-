@@ -17,7 +17,7 @@ Sistema web completo para gestão de serviços de diaristas, com cadastro de pro
 ## Como começar
 ```bash
 # Clone o repositório
-git clone https://github.com/Luanlessa31/SISTEMA-1-.git
+git clone https://github.com/Luanlessa31/Quero-Diarista.git
 cd SISTEMA-1-
 # Instale as dependências
 npm install
