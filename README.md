@@ -18,7 +18,7 @@ Sistema web completo para gestão de serviços de diaristas, com cadastro de pro
 ```bash
 # Clone o repositório
 git clone https://github.com/Luanlessa31/Quero-Diarista.git
-cd SISTEMA-1-
+cd Quero-Diarista
 # Instale as dependências
 npm install
 # Inicie o projeto
